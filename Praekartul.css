@@ -1,0 +1,35 @@
+.Praekartul {
+    position: fixed; left: 530px; top: 10px;
+    font-size: 54px;
+    border-width: 3px;
+    border-color: black;
+}
+
+
+.kartulid {
+    width: fit-content;
+    position: fixed; left: 1100px; top: 10px;
+    padding: -100px;
+}
+
+.Tagasi {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+.Tekst1 {
+    position: fixed; left: 10px; top: 500px;
+    font-size: 23px;
+    border-width: 3px;
+    border-color: black;
+}
+
+
+.box {
+height: 190px;
+width: 280px;
+margin-bottom: 15px;
+border: 5px solid black;
+align-items: left;
+position: fixed; left: 60px; top: 105px;
+}
