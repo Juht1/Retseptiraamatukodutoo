@@ -1,2 +1,4 @@
 # Retseptiraamatukodutoo
-programmerise
+Kristjan Juht
+TARpe22
+kristjan.juht@gmail.com
